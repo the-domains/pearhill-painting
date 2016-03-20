@@ -1,6 +1,6 @@
 name: Pearhill Painting
 favicon: null
-layout_spectrum: 0.74081
+layout_spectrum: 1
 typography_spectrum: 0.5472
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#42462b'
     - '#281616'
     - '#d9d6c3'
-  brandStrength: 0.875
+  brandStrength: 0
   lightness: 0.6875
   saturation: 0
   rhythmicContrast: 0.2070366321131587
