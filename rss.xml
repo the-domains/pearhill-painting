@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Pearhill Painting]]></title>
         <description><![CDATA[Pearhill Painting]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pearhill-painting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 21:06:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Mar 2016 21:11:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pearhill-painting/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/14c1ee57-dc80-4a74-b1d9-0038485178fa.jpg">]]></description>
+            <link>https://thegrid.ai/pearhill-painting/21cc93a1-6c75-4282-a32b-814b6bc45291/index.html</link>
+            <guid isPermaLink="false">21cc93a1-6c75-4282-a32b-814b6bc45291</guid>
+            <pubDate>Sun, 20 Mar 2016 21:09:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f65c9bf-2526-468e-9e95-2e88ff93d647.jpg">]]></description>
-            <link>undefinedc2f73bc1-2138-4d0f-a5a6-d93313086f51/index.html</link>
+            <link>https://thegrid.ai/pearhill-painting/c2f73bc1-2138-4d0f-a5a6-d93313086f51/index.html</link>
             <guid isPermaLink="false">c2f73bc1-2138-4d0f-a5a6-d93313086f51</guid>
             <pubDate>Sun, 20 Mar 2016 21:06:55 GMT</pubDate>
         </item>
