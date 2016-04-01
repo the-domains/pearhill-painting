@@ -1,28 +1,40 @@
-name: Pearhill Painting
 favicon: null
-layout_spectrum: 0.5
-typography_spectrum: 0.57389
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Pearhill Painting
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0
+  brandStrength: 0
+  rhythmicContrast: 0
   brandColors:
     - '#c7c0b0'
     - '#528d87'
     - '#6d131c'
     - '#404f4c'
     - '#fb7b72'
-  brandStrength: 0
   lightness: 0.5
-  saturation: 0
-  rhythmicContrast: 0
-purpose: []
+typography_spectrum: 0.57389
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.3191489
+analytics:
+  twitter: null
+  google: null
+  facebook: null
